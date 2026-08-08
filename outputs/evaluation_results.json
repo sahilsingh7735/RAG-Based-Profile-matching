@@ -1,0 +1,137 @@
+{
+  "average_precision_at_10": 0.46,
+  "average_recall_at_10": 1.0,
+  "average_mrr": 1.0,
+  "average_latency_ms": 555.69,
+  "number_of_job_descriptions": 5,
+  "details": [
+    {
+      "job_description": "jd_01_full_stack.txt",
+      "predicted_candidates": [
+        "Rahul Sharma",
+        "John Doe",
+        "Varun Singh",
+        "Vikas Mehta",
+        "Ayesha Khan",
+        "Priya Singh",
+        "Amit Verma",
+        "Rakesh Yadav",
+        "Tarun Mehta",
+        "Arjun Patel"
+      ],
+      "expected_candidates": [
+        "Rahul Sharma",
+        "John Doe",
+        "Varun Singh",
+        "Vikas Mehta",
+        "Ayesha Khan",
+        "Priya Singh"
+      ],
+      "precision_at_10": 0.6,
+      "recall_at_10": 1.0,
+      "mrr": 1.0,
+      "latency_ms": 795.28
+    },
+    {
+      "job_description": "jd_02_data_scientist.txt",
+      "predicted_candidates": [
+        "Sneha Kapoor",
+        "Saurabh Mishra",
+        "Rohit Jain",
+        "Anjali Rao",
+        "Harsh Vardhan",
+        "Meera Nair",
+        "Deepak Joshi",
+        "Manish Tiwari",
+        "Neha Gupta",
+        "Varun Singh"
+      ],
+      "expected_candidates": [
+        "Sneha Kapoor",
+        "Saurabh Mishra",
+        "Meera Nair",
+        "Anjali Rao"
+      ],
+      "precision_at_10": 0.4,
+      "recall_at_10": 1.0,
+      "mrr": 1.0,
+      "latency_ms": 541.0
+    },
+    {
+      "job_description": "jd_03_backend_developer.txt",
+      "predicted_candidates": [
+        "Amit Verma",
+        "Neha Gupta",
+        "Vikas Mehta",
+        "Arjun Patel",
+        "Tarun Mehta",
+        "Rahul Sharma",
+        "Saurabh Mishra",
+        "Rakesh Yadav",
+        "Varun Singh",
+        "Harsh Vardhan"
+      ],
+      "expected_candidates": [
+        "Amit Verma",
+        "Neha Gupta",
+        "Vikas Mehta",
+        "Varun Singh"
+      ],
+      "precision_at_10": 0.4,
+      "recall_at_10": 1.0,
+      "mrr": 1.0,
+      "latency_ms": 430.27
+    },
+    {
+      "job_description": "jd_04_ml_engineer.txt",
+      "predicted_candidates": [
+        "Saurabh Mishra",
+        "Harsh Vardhan",
+        "Sneha Kapoor",
+        "Vivek Kumar",
+        "Tarun Mehta",
+        "Pooja Sharma",
+        "Amit Verma",
+        "Anjali Rao",
+        "Rakesh Yadav",
+        "Meera Nair"
+      ],
+      "expected_candidates": [
+        "Saurabh Mishra",
+        "Meera Nair",
+        "Harsh Vardhan",
+        "Sneha Kapoor"
+      ],
+      "precision_at_10": 0.4,
+      "recall_at_10": 1.0,
+      "mrr": 1.0,
+      "latency_ms": 592.39
+    },
+    {
+      "job_description": "jd_05_frontend_developer.txt",
+      "predicted_candidates": [
+        "Priya Singh",
+        "John Doe",
+        "Ayesha Khan",
+        "Varun Singh",
+        "Rahul Sharma",
+        "Vikas Mehta",
+        "Akash Verma",
+        "Rakesh Yadav",
+        "Deepak Joshi",
+        "Amit Verma"
+      ],
+      "expected_candidates": [
+        "Priya Singh",
+        "Rahul Sharma",
+        "John Doe",
+        "Ayesha Khan",
+        "Varun Singh"
+      ],
+      "precision_at_10": 0.5,
+      "recall_at_10": 1.0,
+      "mrr": 1.0,
+      "latency_ms": 419.5
+    }
+  ]
+}

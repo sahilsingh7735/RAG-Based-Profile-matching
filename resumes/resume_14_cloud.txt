@@ -1,0 +1,19 @@
+Pooja Sharma
+
+SUMMARY
+
+Cloud Engineer specializing in AWS infrastructure and scalable cloud architecture.
+
+SKILLS
+
+AWS, EC2, S3, Lambda, VPC, CloudFormation, Terraform, Docker, Kubernetes
+
+EXPERIENCE
+
+5 years of cloud engineering experience.
+
+Designed AWS cloud infrastructure using EC2, S3, Lambda and VPC. Automated infrastructure using Terraform and CloudFormation.
+
+EDUCATION
+
+B.Tech IT, Rajasthan Technical University

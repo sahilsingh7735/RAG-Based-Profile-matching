@@ -1,0 +1,19 @@
+Riya Shah
+
+SUMMARY
+
+QA Engineer experienced in software testing and quality assurance.
+
+SKILLS
+
+Manual Testing, Selenium, Java, API Testing, Postman, SQL, Jira, Test Automation
+
+EXPERIENCE
+
+4 years of QA experience.
+
+Created automated Selenium test suites and performed API testing using Postman. Managed test cases and defect tracking through Jira.
+
+EDUCATION
+
+B.Tech Computer Science, Gujarat University

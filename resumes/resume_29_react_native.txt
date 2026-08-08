@@ -1,0 +1,19 @@
+Ayesha Khan
+
+SUMMARY
+
+React Native Developer experienced in cross-platform mobile applications.
+
+SKILLS
+
+React Native, React, JavaScript, TypeScript, Redux, Firebase, REST APIs, Android, iOS
+
+EXPERIENCE
+
+4 years of React Native development experience.
+
+Developed cross-platform mobile applications using React Native and TypeScript. Integrated Firebase and REST APIs.
+
+EDUCATION
+
+B.Tech Computer Science, Jamia Millia Islamia

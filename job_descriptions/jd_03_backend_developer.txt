@@ -1,0 +1,22 @@
+JOB TITLE: Backend Developer
+
+We are looking for a Backend Developer to build scalable APIs and distributed services.
+
+MUST HAVE:
+- 5+ years of backend development
+- Python
+- Django or FastAPI
+- PostgreSQL
+- REST APIs
+
+NICE TO HAVE:
+- Docker
+- AWS
+- Redis
+- Microservices
+
+RESPONSIBILITIES:
+- Design backend services.
+- Develop REST APIs.
+- Optimize database performance.
+- Build scalable backend systems.

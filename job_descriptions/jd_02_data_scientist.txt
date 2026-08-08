@@ -1,0 +1,23 @@
+JOB TITLE: Data Scientist
+
+We are looking for a Data Scientist to develop machine learning and analytics solutions.
+
+MUST HAVE:
+- 3+ years of experience
+- Python
+- Machine Learning
+- SQL
+- Pandas
+- Scikit-learn
+
+NICE TO HAVE:
+- TensorFlow
+- PyTorch
+- Statistics
+- Data visualization
+
+RESPONSIBILITIES:
+- Build predictive models.
+- Analyze large datasets.
+- Develop machine learning solutions.
+- Communicate insights to stakeholders.

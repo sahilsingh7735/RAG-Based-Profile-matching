@@ -1,0 +1,19 @@
+Arjun Patel
+
+SUMMARY
+
+Java Developer with experience developing enterprise applications and microservices.
+
+SKILLS
+
+Java, Spring Boot, Hibernate, REST APIs, MySQL, Kafka, Docker, AWS
+
+EXPERIENCE
+
+7 years of Java development experience.
+
+Built Spring Boot microservices and enterprise REST APIs. Worked with Kafka messaging and MySQL databases.
+
+EDUCATION
+
+B.Tech Computer Science, Gujarat Technological University

@@ -1,0 +1,19 @@
+Tarun Mehta
+
+SUMMARY
+
+Solutions Architect experienced in designing scalable enterprise systems.
+
+SKILLS
+
+AWS, Azure, Microservices, Kubernetes, Docker, Java, Node.js, System Design
+
+EXPERIENCE
+
+10 years of software architecture experience.
+
+Designed cloud-native microservice architectures. Led technical architecture decisions involving AWS, Kubernetes, Docker and distributed systems.
+
+EDUCATION
+
+M.Tech Computer Science, IIT Bombay

@@ -1,0 +1,19 @@
+Rahul Sharma
+
+SUMMARY
+
+Full Stack Developer with 5 years of experience building scalable web applications.
+
+SKILLS
+
+React, TypeScript, Node.js, Express.js, MongoDB, REST APIs, AWS, Docker, Git
+
+EXPERIENCE
+
+5 years of experience developing full stack web applications.
+
+Built scalable React applications and Node.js REST APIs. Designed MongoDB databases and deployed applications on AWS. Implemented JWT authentication and role-based access control.
+
+EDUCATION
+
+B.Tech Computer Science, Delhi Technical University

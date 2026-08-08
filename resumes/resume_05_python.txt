@@ -1,0 +1,19 @@
+Neha Gupta
+
+SUMMARY
+
+Python Developer with strong experience in backend systems and automation.
+
+SKILLS
+
+Python, Django, Flask, FastAPI, PostgreSQL, REST APIs, Celery, Docker
+
+EXPERIENCE
+
+4 years of Python development experience.
+
+Developed Python backend applications using Django and FastAPI. Created asynchronous tasks using Celery and integrated PostgreSQL databases.
+
+EDUCATION
+
+MCA, Bangalore University

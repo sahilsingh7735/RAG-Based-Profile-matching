@@ -1,0 +1,19 @@
+Karan Malhotra
+
+SUMMARY
+
+.NET Developer experienced in enterprise web applications.
+
+SKILLS
+
+C#, .NET, ASP.NET Core, SQL Server, Entity Framework, Azure, REST APIs
+
+EXPERIENCE
+
+6 years of .NET development experience.
+
+Developed ASP.NET Core applications and REST APIs. Designed SQL Server databases and deployed services using Microsoft Azure.
+
+EDUCATION
+
+B.Tech Computer Science, Amity University

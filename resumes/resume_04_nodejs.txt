@@ -1,0 +1,19 @@
+Vikas Mehta
+
+SUMMARY
+
+Node.js Developer experienced in building scalable backend services.
+
+SKILLS
+
+Node.js, Express.js, JavaScript, MongoDB, PostgreSQL, REST APIs, Redis, Docker
+
+EXPERIENCE
+
+5 years of Node.js development experience.
+
+Built RESTful APIs using Node.js and Express. Designed MongoDB schemas and implemented Redis caching for high traffic applications.
+
+EDUCATION
+
+B.E. Computer Engineering, Mumbai University

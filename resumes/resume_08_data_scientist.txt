@@ -1,0 +1,19 @@
+Sneha Kapoor
+
+SUMMARY
+
+Data Scientist with experience in machine learning, statistical analysis and predictive modeling.
+
+SKILLS
+
+Python, Pandas, NumPy, Scikit-learn, TensorFlow, SQL, Machine Learning, Statistics
+
+EXPERIENCE
+
+5 years of data science experience.
+
+Built predictive machine learning models using Python and Scikit-learn. Performed statistical analysis and created data pipelines using SQL.
+
+EDUCATION
+
+M.Tech Data Science, IIT Hyderabad

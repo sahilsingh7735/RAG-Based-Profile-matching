@@ -1,0 +1,49 @@
+{
+  "jd_01_full_stack.txt": {
+    "relevant_candidates": [
+      "Rahul Sharma",
+      "John Doe",
+      "Varun Singh",
+      "Vikas Mehta",
+      "Ayesha Khan",
+      "Priya Singh"
+    ]
+  },
+
+  "jd_02_data_scientist.txt": {
+    "relevant_candidates": [
+      "Sneha Kapoor",
+      "Saurabh Mishra",
+      "Meera Nair",
+      "Anjali Rao"
+    ]
+  },
+
+  "jd_03_backend_developer.txt": {
+    "relevant_candidates": [
+      "Amit Verma",
+      "Neha Gupta",
+      "Vikas Mehta",
+      "Varun Singh"
+    ]
+  },
+
+  "jd_04_ml_engineer.txt": {
+    "relevant_candidates": [
+      "Saurabh Mishra",
+      "Meera Nair",
+      "Harsh Vardhan",
+      "Sneha Kapoor"
+    ]
+  },
+
+  "jd_05_frontend_developer.txt": {
+    "relevant_candidates": [
+      "Priya Singh",
+      "Rahul Sharma",
+      "John Doe",
+      "Ayesha Khan",
+      "Varun Singh"
+    ]
+  }
+}

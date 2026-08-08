@@ -1,0 +1,19 @@
+Priya Singh
+
+SUMMARY
+
+Frontend Developer specializing in modern React applications and responsive user interfaces.
+
+SKILLS
+
+React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Redux, Git
+
+EXPERIENCE
+
+4 years of frontend development experience.
+
+Developed responsive React applications using TypeScript and Tailwind CSS. Built reusable components and optimized frontend performance.
+
+EDUCATION
+
+B.Tech Computer Science, RGPV University

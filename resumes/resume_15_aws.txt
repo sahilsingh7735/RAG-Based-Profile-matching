@@ -1,0 +1,19 @@
+Nitin Agarwal
+
+SUMMARY
+
+AWS Engineer experienced in cloud migration and infrastructure management.
+
+SKILLS
+
+AWS, EC2, RDS, S3, IAM, CloudWatch, Terraform, Linux
+
+EXPERIENCE
+
+7 years of AWS experience.
+
+Migrated enterprise applications to AWS. Managed EC2, RDS and S3 infrastructure and implemented monitoring using CloudWatch.
+
+EDUCATION
+
+B.Tech Computer Science, Kurukshetra University

@@ -1,0 +1,19 @@
+Deepak Joshi
+
+SUMMARY
+
+Automation Test Engineer experienced in UI and API automation.
+
+SKILLS
+
+Selenium, Python, Playwright, Cypress, API Testing, Jenkins, Git, SQL
+
+EXPERIENCE
+
+5 years of automation testing experience.
+
+Developed UI automation using Selenium and Playwright. Created API automation frameworks and integrated tests into Jenkins pipelines.
+
+EDUCATION
+
+B.Tech Information Technology, RTU

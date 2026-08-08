@@ -1,0 +1,19 @@
+Saurabh Mishra
+
+SUMMARY
+
+Machine Learning Engineer specializing in production ML systems.
+
+SKILLS
+
+Python, TensorFlow, PyTorch, Scikit-learn, MLflow, Docker, Kubernetes, AWS
+
+EXPERIENCE
+
+5 years of machine learning engineering experience.
+
+Developed and deployed machine learning models using PyTorch and TensorFlow. Built ML pipelines using MLflow and Kubernetes.
+
+EDUCATION
+
+M.Tech Artificial Intelligence, IIT Delhi

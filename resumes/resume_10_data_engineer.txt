@@ -1,0 +1,19 @@
+Anjali Rao
+
+SUMMARY
+
+Data Engineer experienced in building reliable data pipelines and processing systems.
+
+SKILLS
+
+Python, SQL, Apache Spark, Kafka, Airflow, AWS, Snowflake, ETL
+
+EXPERIENCE
+
+6 years of data engineering experience.
+
+Built ETL pipelines using Python and Airflow. Processed large datasets using Apache Spark and implemented streaming pipelines with Kafka.
+
+EDUCATION
+
+B.Tech Computer Science, Anna University

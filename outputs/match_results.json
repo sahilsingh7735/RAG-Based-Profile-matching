@@ -1,0 +1,245 @@
+{
+  "job_description": "We are looking for a Full Stack Developer.\n\nMUST HAVE:\n\n- 3+ years of software development experience\n- React\n- Node.js\n- JavaScript or TypeScript\n- REST APIs\n- MongoDB\n\nNICE TO HAVE:\n\n- AWS\n- Docker\n- Git",
+  "top_matches": [
+    {
+      "candidate_name": "Rahul Sharma",
+      "resume_path": "resumes\\resume_01_full_stack.txt",
+      "match_score": 74.29,
+      "best_semantic_score": 61.77263259887695,
+      "matched_skills": [
+        "mongodb",
+        "react",
+        "nodejs",
+        "restapi",
+        "docker",
+        "typescript",
+        "git",
+        "aws"
+      ],
+      "matched_must_have": [
+        "mongodb",
+        "react",
+        "restapi",
+        "typescript",
+        "nodejs"
+      ],
+      "must_have_passed": true,
+      "candidate_experience": 5.0,
+      "relevant_excerpts": [
+        "Candidate: Rahul Sharma\nSection: Experience\n\n5 years of experience developing full stack web applications.\nBuilt scalable React applications and Node.js REST APIs. Designed MongoDB databases and deployed applications on AWS. Implemented JWT authentication and role-based access control.",
+        "Candidate: Rahul Sharma\nSection: Skills\n\nReact, TypeScript, Node.js, Express.js, MongoDB, REST APIs, AWS, Docker, Git",
+        "Candidate: Rahul Sharma\nSection: Summary\n\nFull Stack Developer with 5 years of experience building scalable web applications."
+      ],
+      "reasoning": "The candidate satisfies the must-have requirements. Matched skills include aws, docker, git, mongodb, nodejs, react, restapi, typescript. The candidate has 5 years of experience, meeting the 3+ year requirement. Overall this is a strong match."
+    },
+    {
+      "candidate_name": "John Doe",
+      "resume_path": "resumes\\john_doe.txt",
+      "match_score": 73.32,
+      "best_semantic_score": 64.791339635849,
+      "matched_skills": [
+        "mongodb",
+        "react",
+        "nodejs",
+        "typescript",
+        "git",
+        "javascript",
+        "aws"
+      ],
+      "matched_must_have": [
+        "react",
+        "nodejs",
+        "javascript"
+      ],
+      "must_have_passed": false,
+      "candidate_experience": 5.0,
+      "relevant_excerpts": [
+        "Candidate: John Doe\nSection: Skills\n\nReact, JavaScript, TypeScript, Node.js, Express.js, MongoDB, AWS, Git",
+        "Candidate: John Doe\nSection: Summary\n\nFull Stack Developer with 5 years of experience building scalable web applications.",
+        "Candidate: John Doe\nSection: Experience\n\nSoftware Engineer\nABC Technologies\n2021 - Present\nDeveloped REST APIs using Node.js and Express.js.\nBuilt responsive applications using React.\nWorked with MongoDB and AWS.\nImplemented authentication and authorization.",
+        "Candidate: John Doe\nSection: Education\n\nB.Tech Computer Science\nXYZ University\n2017 - 2021"
+      ],
+      "reasoning": "The candidate does not satisfy all must-have requirements. Matched skills include aws, git, javascript, mongodb, nodejs, react, typescript. The candidate has 5 years of experience, meeting the 3+ year requirement. Overall this is a strong match."
+    },
+    {
+      "candidate_name": "Varun Singh",
+      "resume_path": "resumes\\resume_28_software_engineer.txt",
+      "match_score": 65.31,
+      "best_semantic_score": 56.06875419616699,
+      "matched_skills": [
+        "react",
+        "nodejs",
+        "restapi",
+        "docker",
+        "git",
+        "javascript"
+      ],
+      "matched_must_have": [
+        "react",
+        "nodejs",
+        "javascript",
+        "restapi"
+      ],
+      "must_have_passed": false,
+      "candidate_experience": 3.0,
+      "relevant_excerpts": [
+        "Candidate: Varun Singh\nSection: Experience\n\n3 years of software engineering experience.\nDeveloped React and Node.js applications. Built REST APIs and worked with PostgreSQL databases and Docker.",
+        "Candidate: Varun Singh\nSection: Skills\n\nJavaScript, Python, React, Node.js, PostgreSQL, REST APIs, Git, Docker",
+        "Candidate: Varun Singh\nSection: Summary\n\nSoftware Engineer experienced in developing scalable backend and web applications."
+      ],
+      "reasoning": "The candidate does not satisfy all must-have requirements. Matched skills include docker, git, javascript, nodejs, react, restapi. The candidate has 3 years of experience, meeting the 3+ year requirement. Overall this is a moderate match."
+    },
+    {
+      "candidate_name": "Vikas Mehta",
+      "resume_path": "resumes\\resume_04_nodejs.txt",
+      "match_score": 61.71,
+      "best_semantic_score": 54.69363331794739,
+      "matched_skills": [
+        "mongodb",
+        "restapi",
+        "docker",
+        "nodejs",
+        "javascript"
+      ],
+      "matched_must_have": [],
+      "must_have_passed": false,
+      "candidate_experience": 5.0,
+      "relevant_excerpts": [
+        "Candidate: Vikas Mehta\nSection: Skills\n\nNode.js, Express.js, JavaScript, MongoDB, PostgreSQL, REST APIs, Redis, Docker",
+        "Candidate: Vikas Mehta\nSection: Experience\n\n5 years of Node.js development experience.\nBuilt RESTful APIs using Node.js and Express. Designed MongoDB schemas and implemented Redis caching for high traffic applications.",
+        "Candidate: Vikas Mehta\nSection: Summary\n\nNode.js Developer experienced in building scalable backend services."
+      ],
+      "reasoning": "The candidate does not satisfy all must-have requirements. Matched skills include docker, javascript, mongodb, nodejs, restapi. The candidate has 5 years of experience, meeting the 3+ year requirement. Overall this is a moderate match."
+    },
+    {
+      "candidate_name": "Ayesha Khan",
+      "resume_path": "resumes\\resume_29_react_native.txt",
+      "match_score": 59.98,
+      "best_semantic_score": 56.454676389694214,
+      "matched_skills": [
+        "react",
+        "javascript",
+        "typescript",
+        "restapi"
+      ],
+      "matched_must_have": [
+        "react"
+      ],
+      "must_have_passed": false,
+      "candidate_experience": 4.0,
+      "relevant_excerpts": [
+        "Candidate: Ayesha Khan\nSection: Skills\n\nReact Native, React, JavaScript, TypeScript, Redux, Firebase, REST APIs, Android, iOS",
+        "Candidate: Ayesha Khan\nSection: Experience\n\n4 years of React Native development experience.\nDeveloped cross-platform mobile applications using React Native and TypeScript. Integrated Firebase and REST APIs.",
+        "Candidate: Ayesha Khan\nSection: Summary\n\nReact Native Developer experienced in cross-platform mobile applications."
+      ],
+      "reasoning": "The candidate does not satisfy all must-have requirements. Matched skills include javascript, react, restapi, typescript. The candidate has 4 years of experience, meeting the 3+ year requirement. Overall this is a moderate match."
+    },
+    {
+      "candidate_name": "Priya Singh",
+      "resume_path": "resumes\\resume_03_frontend.txt",
+      "match_score": 57.43,
+      "best_semantic_score": 52.19599008560181,
+      "matched_skills": [
+        "react",
+        "git",
+        "javascript",
+        "typescript"
+      ],
+      "matched_must_have": [
+        "react"
+      ],
+      "must_have_passed": false,
+      "candidate_experience": 4.0,
+      "relevant_excerpts": [
+        "Candidate: Priya Singh\nSection: Skills\n\nReact, JavaScript, TypeScript, HTML, CSS, Tailwind CSS, Redux, Git",
+        "Candidate: Priya Singh\nSection: Experience\n\n4 years of frontend development experience.\nDeveloped responsive React applications using TypeScript and Tailwind CSS. Built reusable components and optimized frontend performance.",
+        "Candidate: Priya Singh\nSection: Summary\n\nFrontend Developer specializing in modern React applications and responsive user interfaces."
+      ],
+      "reasoning": "The candidate does not satisfy all must-have requirements. Matched skills include git, javascript, react, typescript. The candidate has 4 years of experience, meeting the 3+ year requirement. Overall this is a moderate match."
+    },
+    {
+      "candidate_name": "Amit Verma",
+      "resume_path": "resumes\\resume_02_backend.txt",
+      "match_score": 56.64,
+      "best_semantic_score": 50.886255502700806,
+      "matched_skills": [
+        "git",
+        "restapi",
+        "aws",
+        "docker"
+      ],
+      "matched_must_have": [],
+      "must_have_passed": false,
+      "candidate_experience": 6.0,
+      "relevant_excerpts": [
+        "Candidate: Amit Verma\nSection: Skills\n\nPython, Django, FastAPI, PostgreSQL, Redis, REST APIs, Docker, AWS, Git",
+        "Candidate: Amit Verma\nSection: Experience\n\n6 years of backend development experience.\nDeveloped Django and FastAPI services. Designed PostgreSQL databases and optimized complex queries. Built REST APIs and deployed microservices using Docker and AWS.",
+        "Candidate: Amit Verma\nSection: Summary\n\nBackend Developer with 6 years of experience designing high-performance APIs and distributed systems."
+      ],
+      "reasoning": "The candidate does not satisfy all must-have requirements. Matched skills include aws, docker, git, restapi. The candidate has 6 years of experience, meeting the 3+ year requirement. Overall this is a moderate match."
+    },
+    {
+      "candidate_name": "Rakesh Yadav",
+      "resume_path": "resumes\\resume_27_tech_lead.txt",
+      "match_score": 52.98,
+      "best_semantic_score": 49.41512942314148,
+      "matched_skills": [
+        "react",
+        "aws",
+        "docker"
+      ],
+      "matched_must_have": [
+        "react"
+      ],
+      "must_have_passed": false,
+      "candidate_experience": 9.0,
+      "relevant_excerpts": [
+        "Candidate: Rakesh Yadav\nSection: Skills\n\nJava, Spring Boot, React, AWS, Microservices, System Design, Docker, Kubernetes, Leadership",
+        "Candidate: Rakesh Yadav\nSection: Summary\n\nTechnical Lead with extensive experience leading software engineering teams.",
+        "Candidate: Rakesh Yadav\nSection: Experience\n\n9 years of software engineering experience.\nLed engineering teams building enterprise applications. Designed microservices and reviewed architecture, code and deployment strategies."
+      ],
+      "reasoning": "The candidate does not satisfy all must-have requirements. Matched skills include aws, docker, react. The candidate has 9 years of experience, meeting the 3+ year requirement. Overall this is a relatively weak match."
+    },
+    {
+      "candidate_name": "Tarun Mehta",
+      "resume_path": "resumes\\resume_26_architect.txt",
+      "match_score": 52.59,
+      "best_semantic_score": 48.761188983917236,
+      "matched_skills": [
+        "nodejs",
+        "aws",
+        "docker"
+      ],
+      "matched_must_have": [],
+      "must_have_passed": false,
+      "candidate_experience": 10.0,
+      "relevant_excerpts": [
+        "Candidate: Tarun Mehta\nSection: Skills\n\nAWS, Azure, Microservices, Kubernetes, Docker, Java, Node.js, System Design",
+        "Candidate: Tarun Mehta\nSection: Experience\n\n10 years of software architecture experience.\nDesigned cloud-native microservice architectures. Led technical architecture decisions involving AWS, Kubernetes, Docker and distributed systems.",
+        "Candidate: Tarun Mehta\nSection: Summary\n\nSolutions Architect experienced in designing scalable enterprise systems.",
+        "Candidate: Tarun Mehta\nSection: Education\n\nM.Tech Computer Science, IIT Bombay"
+      ],
+      "reasoning": "The candidate does not satisfy all must-have requirements. Matched skills include aws, docker, nodejs. The candidate has 10 years of experience, meeting the 3+ year requirement. Overall this is a relatively weak match."
+    },
+    {
+      "candidate_name": "Arjun Patel",
+      "resume_path": "resumes\\resume_06_java.txt",
+      "match_score": 52.34,
+      "best_semantic_score": 48.351335525512695,
+      "matched_skills": [
+        "restapi",
+        "aws",
+        "docker"
+      ],
+      "matched_must_have": [],
+      "must_have_passed": false,
+      "candidate_experience": 7.0,
+      "relevant_excerpts": [
+        "Candidate: Arjun Patel\nSection: Skills\n\nJava, Spring Boot, Hibernate, REST APIs, MySQL, Kafka, Docker, AWS",
+        "Candidate: Arjun Patel\nSection: Experience\n\n7 years of Java development experience.\nBuilt Spring Boot microservices and enterprise REST APIs. Worked with Kafka messaging and MySQL databases.",
+        "Candidate: Arjun Patel\nSection: Summary\n\nJava Developer with experience developing enterprise applications and microservices."
+      ],
+      "reasoning": "The candidate does not satisfy all must-have requirements. Matched skills include aws, docker, restapi. The candidate has 7 years of experience, meeting the 3+ year requirement. Overall this is a relatively weak match."
+    }
+  ]
+}

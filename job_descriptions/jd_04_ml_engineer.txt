@@ -1,0 +1,22 @@
+JOB TITLE: Machine Learning Engineer
+
+We are looking for a Machine Learning Engineer to build and deploy production ML systems.
+
+MUST HAVE:
+- 4+ years of experience
+- Python
+- Machine Learning
+- TensorFlow or PyTorch
+- Docker
+
+NICE TO HAVE:
+- Kubernetes
+- MLflow
+- AWS
+- CI/CD
+
+RESPONSIBILITIES:
+- Train machine learning models.
+- Deploy models into production.
+- Build ML pipelines.
+- Monitor model performance.

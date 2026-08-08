@@ -1,0 +1,19 @@
+Vivek Kumar
+
+SUMMARY
+
+DevOps Engineer experienced in CI/CD, cloud infrastructure and automation.
+
+SKILLS
+
+AWS, Docker, Kubernetes, Jenkins, GitHub Actions, Terraform, Linux, CI/CD
+
+EXPERIENCE
+
+6 years of DevOps experience.
+
+Built CI/CD pipelines using Jenkins and GitHub Actions. Managed Kubernetes clusters and AWS infrastructure using Terraform.
+
+EDUCATION
+
+B.Tech Computer Science, VTU

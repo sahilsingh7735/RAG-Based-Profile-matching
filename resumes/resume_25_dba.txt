@@ -1,0 +1,19 @@
+Mohit Saxena
+
+SUMMARY
+
+Database Administrator experienced in enterprise database systems.
+
+SKILLS
+
+PostgreSQL, MySQL, Oracle, SQL Server, Database Administration, Performance Tuning, Backup, Linux
+
+EXPERIENCE
+
+7 years of database administration experience.
+
+Managed PostgreSQL, MySQL and Oracle databases. Performed database tuning, backups, recovery and high availability configuration.
+
+EDUCATION
+
+B.Tech Computer Science, RGPV University

@@ -1,0 +1,19 @@
+Rakesh Yadav
+
+SUMMARY
+
+Technical Lead with extensive experience leading software engineering teams.
+
+SKILLS
+
+Java, Spring Boot, React, AWS, Microservices, System Design, Docker, Kubernetes, Leadership
+
+EXPERIENCE
+
+9 years of software engineering experience.
+
+Led engineering teams building enterprise applications. Designed microservices and reviewed architecture, code and deployment strategies.
+
+EDUCATION
+
+B.Tech Computer Science, NIT Bhopal

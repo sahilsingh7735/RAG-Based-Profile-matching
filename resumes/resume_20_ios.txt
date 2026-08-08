@@ -1,0 +1,19 @@
+Isha Kapoor
+
+SUMMARY
+
+iOS Developer experienced in native mobile application development.
+
+SKILLS
+
+Swift, SwiftUI, iOS SDK, Xcode, REST APIs, Firebase, Core Data
+
+EXPERIENCE
+
+5 years of iOS development experience.
+
+Developed native iOS applications using Swift and SwiftUI. Integrated REST APIs, Firebase and Core Data.
+
+EDUCATION
+
+B.Tech Computer Science, Pune University

@@ -1,0 +1,23 @@
+JOB TITLE: Full Stack Developer
+
+We are looking for a Full Stack Developer to build scalable web applications.
+
+MUST HAVE:
+- 3+ years of software development experience
+- React
+- Node.js
+- JavaScript or TypeScript
+- REST APIs
+- MongoDB
+
+NICE TO HAVE:
+- AWS
+- Docker
+- CI/CD
+- Git
+
+RESPONSIBILITIES:
+- Build responsive frontend applications.
+- Develop scalable backend APIs.
+- Design and maintain databases.
+- Collaborate with engineering and product teams.

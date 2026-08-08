@@ -1,0 +1,19 @@
+Meera Nair
+
+SUMMARY
+
+AI Engineer focused on NLP, generative AI and intelligent applications.
+
+SKILLS
+
+Python, NLP, Transformers, PyTorch, LangChain, LLMs, OpenAI APIs, Vector Databases
+
+EXPERIENCE
+
+4 years of AI engineering experience.
+
+Built NLP and LLM-powered applications. Developed retrieval augmented generation systems using vector databases and transformer models.
+
+EDUCATION
+
+M.Tech Artificial Intelligence, NIT Trichy

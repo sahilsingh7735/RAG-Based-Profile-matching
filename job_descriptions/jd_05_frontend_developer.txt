@@ -1,0 +1,23 @@
+JOB TITLE: Frontend React Developer
+
+We are looking for a Frontend Developer to build modern web interfaces.
+
+MUST HAVE:
+- 3+ years of frontend development
+- React
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+
+NICE TO HAVE:
+- Redux
+- Tailwind CSS
+- Git
+- UI/UX experience
+
+RESPONSIBILITIES:
+- Build reusable React components.
+- Develop responsive interfaces.
+- Optimize frontend performance.
+- Work with backend engineers.

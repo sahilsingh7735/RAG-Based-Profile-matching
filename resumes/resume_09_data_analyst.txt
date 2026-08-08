@@ -1,0 +1,19 @@
+Rohit Jain
+
+SUMMARY
+
+Data Analyst experienced in business intelligence and data visualization.
+
+SKILLS
+
+SQL, Python, Excel, Power BI, Tableau, Pandas, Statistics
+
+EXPERIENCE
+
+4 years of data analytics experience.
+
+Created business dashboards using Power BI and Tableau. Analyzed large datasets using SQL and Python and delivered actionable business insights.
+
+EDUCATION
+
+B.Sc Statistics, Delhi University

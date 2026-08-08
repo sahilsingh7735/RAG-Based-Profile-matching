@@ -1,0 +1,19 @@
+Akash Verma
+
+SUMMARY
+
+Android Developer experienced in building modern mobile applications.
+
+SKILLS
+
+Kotlin, Java, Android SDK, Jetpack Compose, Firebase, REST APIs, Git
+
+EXPERIENCE
+
+4 years of Android development experience.
+
+Built Android applications using Kotlin and Jetpack Compose. Integrated Firebase services and REST APIs.
+
+EDUCATION
+
+B.Tech Computer Science, LNCT Bhopal

@@ -1,0 +1,26 @@
+John Doe
+
+SUMMARY
+
+Full Stack Developer with 5 years of experience building scalable web applications.
+
+SKILLS
+
+React, JavaScript, TypeScript, Node.js, Express.js, MongoDB, AWS, Git
+
+EXPERIENCE
+
+Software Engineer
+ABC Technologies
+2021 - Present
+
+Developed REST APIs using Node.js and Express.js.
+Built responsive applications using React.
+Worked with MongoDB and AWS.
+Implemented authentication and authorization.
+
+EDUCATION
+
+B.Tech Computer Science
+XYZ University
+2017 - 2021

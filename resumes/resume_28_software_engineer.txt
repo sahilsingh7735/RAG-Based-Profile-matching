@@ -1,0 +1,19 @@
+Varun Singh
+
+SUMMARY
+
+Software Engineer experienced in developing scalable backend and web applications.
+
+SKILLS
+
+JavaScript, Python, React, Node.js, PostgreSQL, REST APIs, Git, Docker
+
+EXPERIENCE
+
+3 years of software engineering experience.
+
+Developed React and Node.js applications. Built REST APIs and worked with PostgreSQL databases and Docker.
+
+EDUCATION
+
+B.Tech Computer Science, MANIT Bhopal

@@ -1,0 +1,19 @@
+Harsh Vardhan
+
+SUMMARY
+
+MLOps Engineer specializing in production machine learning infrastructure.
+
+SKILLS
+
+Python, MLflow, Kubernetes, Docker, AWS, CI/CD, Terraform, Airflow, Machine Learning
+
+EXPERIENCE
+
+6 years of MLOps and machine learning infrastructure experience.
+
+Built ML deployment pipelines using MLflow and Kubernetes. Automated infrastructure with Terraform and created CI/CD pipelines for machine learning models.
+
+EDUCATION
+
+M.Tech Machine Learning, IIT Kanpur

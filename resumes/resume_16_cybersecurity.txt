@@ -1,0 +1,19 @@
+Aditya Singh
+
+SUMMARY
+
+Cybersecurity Engineer focused on application and network security.
+
+SKILLS
+
+Cybersecurity, Network Security, SIEM, Linux, Python, Penetration Testing, OWASP, Firewalls
+
+EXPERIENCE
+
+5 years of cybersecurity experience.
+
+Performed security assessments and penetration testing. Implemented SIEM monitoring and investigated security incidents.
+
+EDUCATION
+
+M.Tech Cybersecurity, Amity University

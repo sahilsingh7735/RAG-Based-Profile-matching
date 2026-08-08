@@ -1,0 +1,19 @@
+Amit Verma
+
+SUMMARY
+
+Backend Developer with 6 years of experience designing high-performance APIs and distributed systems.
+
+SKILLS
+
+Python, Django, FastAPI, PostgreSQL, Redis, REST APIs, Docker, AWS, Git
+
+EXPERIENCE
+
+6 years of backend development experience.
+
+Developed Django and FastAPI services. Designed PostgreSQL databases and optimized complex queries. Built REST APIs and deployed microservices using Docker and AWS.
+
+EDUCATION
+
+B.Tech Information Technology, Pune University
